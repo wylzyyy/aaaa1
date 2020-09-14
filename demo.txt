@@ -1,0 +1,5 @@
+ls
+cd foldername
+cd ../ 返回上一级
+diskname: 进入指定磁盘
+
